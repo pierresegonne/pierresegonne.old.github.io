@@ -104,3 +104,130 @@
     font-style: normal;
 }
 
+/*
+ * Open Sans
+================================================================================ */
+@font-face {
+    font-family: 'opensans-bold';
+    src: url('../fonts/Open_Sans/OpenSans-Bold.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'opensans-bold-italic';
+    src: url('../fonts/Open_Sans/OpenSans-BoldItalic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'opensans-extrabold';
+    src: url('../fonts/Open_Sans/OpenSans-ExtraBold.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'opensans-extrabold-italic';
+    src: url('../fonts/Open_Sans/OpenSans-ExtraBoldItalic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'opensans-italic';
+    src: url('../fonts/Open_Sans/OpenSans-Italic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'opensans-light';
+    src: url('../fonts/Open_Sans/OpenSans-Light.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'opensans-light-italic';
+    src: url('../fonts/Open_Sans/OpenSans-LightItalic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'opensans-regular';
+    src: url('../fonts/Open_Sans/OpenSans-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'opensans-semibold';
+    src: url('../fonts/Open_Sans/OpenSans-SemiBold.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'opensans-semibold-italic';
+    src: url('../fonts/Open_Sans/OpenSans-SemiBoldItalic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+/*
+ * Open Sans
+================================================================================ */
+@font-face {
+    font-family: 'ebgaramond-bold';
+    src: url('../fonts/EBGaramond/EBGaramond-Bold.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'ebgaramond-bold-italic';
+    src: url('../fonts/EBGaramond/EBGaramond-BoldItalic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'ebgaramond-extrabold';
+    src: url('../fonts/EBGaramond/EBGaramond-ExtraBold.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'ebgaramond-extrabold-italic';
+    src: url('../fonts/EBGaramond/EBGaramond-ExtraBoldItalic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'ebgaramond-italic';
+    src: url('../fonts/EBGaramond/EBGaramond-Italic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'ebgaramond-medium';
+    src: url('../fonts/EBGaramond/EBGaramond-Medium.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'ebgaramond-medium-italic';
+    src: url('../fonts/EBGaramond/EBGaramond-MediumItalic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'ebgaramond-regular';
+    src: url('../fonts/EBGaramond/EBGaramond-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'ebgaramond-semibold';
+    src: url('../fonts/EBGaramond/EBGaramond-SemiBold.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'ebgaramond-semibold-italic';
+    src: url('../fonts/EBGaramond/EBGaramond-SemiBoldItalic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
